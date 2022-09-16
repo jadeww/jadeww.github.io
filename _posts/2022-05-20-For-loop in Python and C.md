@@ -4,7 +4,7 @@ title:      For-loop in Python and C
 subtitle:   About variable assignment in for-loop
 date:       2022-05-20
 author:     Jade Wu
-header-img: img/post-bg-cook.jpg
+header-img: img/post-bg-macondesk.jpeg
 catalog: true
 tags:
     - Python
